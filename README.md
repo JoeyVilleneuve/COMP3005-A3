@@ -1,5 +1,5 @@
 # COMP3005-A3
-COMP3004 - Assignment 3
+COMP3005 - Assignment 3
 Joey Villeneuve (Student 101187383)
 March 12, 2024
 
